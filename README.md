@@ -1,4 +1,4 @@
 # link-redirect
 
-- [index.html](./index.html)
-- [index2.html](./index2.html)
+- [index.html](https://kys-sheng.github.io/link-redirect/index.html)
+- [index2.html](https://kys-sheng.github.io/link-redirect/index2.html)
